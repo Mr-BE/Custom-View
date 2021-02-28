@@ -1,0 +1,60 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="800dp"
+    android:height="800dp"
+    android:viewportWidth="42"
+    android:viewportHeight="42">
+  <path
+      android:pathData="M21,21m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+      android:strokeWidth=".15"
+      android:strokeColor="#000">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:gradientRadius="20.326088"
+          android:centerX="21"
+          android:centerY="21"
+          android:type="radial">
+        <item android:offset="0" android:color="#FFFFFF00"/>
+        <item android:offset="0.75" android:color="#FFFFFF00"/>
+        <item android:offset="0.95" android:color="#FFEEEE00"/>
+        <item android:offset="1" android:color="#FFE8E800"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="M21,21m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:gradientRadius="20.326088"
+          android:centerX="9"
+          android:centerY="8.804348"
+          android:type="radial">
+        <item android:offset="0" android:color="#B2FFFFFF"/>
+        <item android:offset="1" android:color="#00FFFFFF"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M12.5,14a2.5,4 0,1 0,5 0a2.5,4 0,1 0,-5 0z"/>
+  <path
+      android:pathData="m31.6,23.7a4,4 0,0 0,4 3"
+      android:strokeWidth=".5"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M29.5,14a4,2.5 90,1 1,-5 0a4,2.5 90,1 1,5 0z"/>
+  <path
+      android:pathData="m10.4,23.7a4,4 0,0 1,-4 3"
+      android:strokeWidth=".5"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="m9,26a13.5,13.5 0,0 0,24 0,13 13,0 0,1 -24,0"
+      android:strokeWidth=".75"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
+</vector>
